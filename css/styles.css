@@ -10514,3 +10514,8 @@ section.desc-section .desc-section-content {
 		padding-bottom: 5rem;
 	}
 }
+@media (min-width: 576px) {
+	section.desc-section {
+		max-height: 100vh;
+	}
+}
